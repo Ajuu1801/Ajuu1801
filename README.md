@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💻 Ajay Gawas (Ajuu1801)
 
-<!--
-**Ajuu1801/Ajuu1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | AI & Automation Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building modern web applications and AI-powered solutions. Skilled in **Python, Go, React, FastAPI, and OpenAI API**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Highlights:**
+
+* Developed AI-driven tools like **AI Email Generator**, **AI Resume Analyzer**, and **Smart Recruitment System**.
+* Focused on **clean UI/UX**, productivity tools, and automation.
+* Open to collaborations and innovative projects.
+
+🔗 **Portfolio:** [https://portfolliox1.netlify.app/](https://portfolliox1.netlify.app/)
+📂 **GitHub:** [https://github.com/Ajuu1801](https://github.com/Ajuu1801)
+
+---
+
+Feel free to connect! I’m always looking for exciting AI and web development projects to collaborate on.
